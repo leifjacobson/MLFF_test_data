@@ -3,13 +3,13 @@ Location to share public data generated at Schrodinger, for validation of MLFF m
 
 ## General Data Format and Units
 
-All structural data is given in json to ease reading into python using the json module.  Each test directory has multiple json files that collect structures that are related in some way and error statistics are typically computed over each file and then aggregated over the files.  Each file is structured as a list of dicts and each dict corresponds to a single structure.  Each dict has keys `title`, `smiles`, `coordinates`, `elements` and `charge` which give each structure a title, a smiles string, atomic coordinates in Angstrom, a list of elements corresponding to the coordinates and a net charge.  In addition, if the structure is periodic there is a length 9 list `lattice` which gives the unit cell vectors in Angstrom.  All structures have one or more energy keys, which are formated as `E[<method>](<units>)` where `method` is a string indicating the method and units is either `Ha` or `Ry`, for Hartree or Rydberg.  In this data method is one of `wB97X-D3BJ/def2-TZVPD`, `DLPNO-CCSD(T)/CBS` or `PBE-D3`.  Additional properties are given for some datasets and are detailed below where applicable.
+All structural data is given in json to ease reading into python using the `json` module.  Each test directory has multiple json files that collect structures that are related in some way and error statistics are typically computed over each file and then aggregated over the files.  Each file is structured as a list of dicts and each dict corresponds to a single structure.  Each dict has keys `title`, `smiles`, `coordinates`, `elements` and `charge` which give each structure a title, a smiles string, atomic coordinates in Angstrom, a list of elements corresponding to the coordinates and a net charge.  In addition, if the structure is periodic there is a length 9 list `lattice` which gives the unit cell vectors in Angstrom.  All structures have one or more energy keys, which are formated as `E[<method>](<units>)` where `method` is a string indicating the method and units is either `Ha` or `Ry`, for Hartree or Rydberg.  In this data method is one of `wB97X-D3BJ/def2-TZVPD`, `DLPNO-CCSD(T)/CBS` or `PBE-D3`.  Additional properties are given for some datasets and are detailed below where applicable.
 
 ## Datasets
 
 ### TorsiononNet500
 
-    This dataset contains 500 rotamer scans.  Here we provide wB97X-D3BJ/def2-TZVPD and DLPNO-CCSD(T)/CBS estimates in Hartree.  Please additionally cite the original work when using this dataset.
+This dataset contains 500 rotamer scans.  Here we provide wB97X-D3BJ/def2-TZVPD and DLPNO-CCSD(T)/CBS estimates in Hartree.  Please additionally cite the original work when using this dataset.
 
 ```
 article{
@@ -34,10 +34,10 @@ article{
 
 ### TorsiononTest2000
 
-    This dataset contains 2109 rotamer scans of molecular fragments covering an expanded element set and includes some ionic examples.  The reference energies are wB97X-D3BJ/def2-TZVPD and are given in Hartree. 
+This dataset contains 2109 rotamer scans of molecular fragments covering an expanded element set and includes some ionic examples.  The reference energies are wB97X-D3BJ/def2-TZVPD and are given in Hartree. 
 
 ### tautobase
-    This dataset contains a subset of the tautomer pairs in the tautobase set.   The reference energies are wB97X-D3BJ/def2-TZVPD and are given in Hartree.  Please additionally cite the original work when using this dataset. 
+This dataset contains a subset of the tautomer pairs in the tautobase set.   The reference energies are wB97X-D3BJ/def2-TZVPD and are given in Hartree.  Please additionally cite the original work when using this dataset. 
 
 ```
 article{doi:10.1021/acs.jcim.0c00035,
@@ -61,7 +61,7 @@ article{doi:10.1021/acs.jcim.0c00035,
 
 ### OrganicCrystals_PBE-D3
 
-    This dataset is a collection of loose PBE-D3 optimizations of 20 sets of organic crystals.  The 20 systems were selected as challenging molecular systems from a prior study.  Each set spans an energy range of up to 12 kcal/mol and reference PBE-D3 energies are given in Rydberg.  Additionally, the number of molecules is given by the key `number_of_molecules` and it is customary to measure energy normalized to the number of molecules.  For each set, any crystals matching experimental forms are indicated with the key `experimental_match`, whose value gives the name of the CCDC ref code, the RMSD N of this match is given by the key `experimental_match_rmsd_n`.  When using this data please also cite the original work.
+This dataset is a collection of loose PBE-D3 optimizations of 20 sets of organic crystals.  The 20 systems were selected as challenging molecular systems from a prior study.  Each set spans an energy range of up to 12 kcal/mol and reference PBE-D3 energies are given in Rydberg.  Additionally, the number of molecules is given by the key `number_of_molecules` and it is customary to measure energy normalized to the number of molecules.  For each set, any crystals matching experimental forms are indicated with the key `experimental_match`, whose value gives the name of the CCDC ref code, the RMSD N of this match is given by the key `experimental_match_rmsd_n`.  When using this data please also cite the original work.
 
 ```
 article{zhou2025CSP,
@@ -77,11 +77,11 @@ article{zhou2025CSP,
 
 ### OrganicCrystals_PBE-D3_experimental_structures
 
-    This dataset is a collection of tight PBE-D3 optimizations of 20 sets of experimentally observed organic crystals.  The 20 systems were selected as challenging molecular systems from a prior study.  Each set gives known Z'=1 crystal forms and reference PBE-D3 energies are given in Rydberg.  Additionally, the number of molecules is given by the key `number_of_molecules` and it is customary to measure energy normalized to the number of molecules.  When using this data please also cite the original work (given in the previous sectionn).
+This dataset is a collection of tight PBE-D3 optimizations of 20 sets of experimentally observed organic crystals.  The 20 systems were selected as challenging molecular systems from a prior study.  Each set gives known Z'=1 crystal forms and reference PBE-D3 energies are given in Rydberg.  Additionally, the number of molecules is given by the key `number_of_molecules` and it is customary to measure energy normalized to the number of molecules.  When using this data please also cite the original work (given in the previous sectionn).
 
 ## Reference
 
-   If using any of this data please cite our manuscript describing the data as well as MPNICE MLFF models.
+If using any of this data please cite our manuscript describing the data as well as MPNICE MLFF models.
 
 ```
 @misc{weber2025efficientlongrangemachinelearning,
