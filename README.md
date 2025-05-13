@@ -12,8 +12,7 @@ All structural data is given in json to ease reading into python using the `json
 This dataset contains 500 rotamer scans.  Here we provide wB97X-D3BJ/def2-TZVPD and DLPNO-CCSD(T)/CBS estimates in Hartree.  Please additionally cite the original work when using this dataset.
 
 ```
-article{
-    doi:10.1021/acs.jcim.1c01346,
+article{Rai2022TorsionNet
     author = {Rai, Brajesh K. and Sresht, Vishnu and Yang, Qingyi and Unwalla, Ray and Tu, Meihua and Mathiowetz, Alan M. and Bakken, Gregory A.},
     title = {TorsionNet: A Deep Neural Network to Rapidly Predict Small-Molecule Torsional Energy Profiles with the Accuracy of Quantum Mechanics},
     journal = {Journal of Chemical Information and Modeling},
@@ -40,7 +39,7 @@ This dataset contains 2109 rotamer scans of molecular fragments covering an expa
 This dataset contains a subset of the tautomer pairs in the tautobase set.   The reference energies are wB97X-D3BJ/def2-TZVPD and are given in Hartree.  Please additionally cite the original work when using this dataset. 
 
 ```
-article{doi:10.1021/acs.jcim.0c00035,
+article{Wahl2020Tautobase
     author = {Wahl, Oya and Sander, Thomas},
     title = {Tautobase: An Open Tautomer Database},
     journal = {Journal of Chemical Information and Modeling},
@@ -77,14 +76,14 @@ article{zhou2025CSP,
 
 ### OrganicCrystals_PBE-D3_experimental_structures
 
-This dataset is a collection of tight PBE-D3 optimizations of 20 sets of experimentally observed organic crystals.  The 20 systems were selected as challenging molecular systems from a prior study.  Each set gives known Z'=1 crystal forms and reference PBE-D3 energies are given in Rydberg.  Additionally, the number of molecules is given by the key `number_of_molecules` and it is customary to measure energy normalized to the number of molecules.  When using this data please also cite the original work (given in the previous sectionn).
+This dataset is a collection of tight PBE-D3 optimizations of 20 sets of experimentally observed organic crystals.  The 20 systems were selected as challenging molecular systems from a prior study.  Each set gives known Z'=1 crystal forms and reference PBE-D3 energies are given in Rydberg.  Additionally, the number of molecules is given by the key `number_of_molecules` and it is customary to measure energy normalized to the number of molecules.  When using this data please also cite the original work (given in the previous section).
 
 ## Reference
 
 If using any of this data please cite our manuscript describing the data as well as MPNICE MLFF models.
 
 ```
-@misc{weber2025efficientlongrangemachinelearning,
+@misc{Weber2025MPNICE,
       title={Efficient Long-Range Machine Learning Force Fields for Liquid and Materials Properties}, 
       author={John L. Weber and Rishabh D. Guha and Garvit Agarwal and Yujing Wei and Aidan A. Fike and Xiaowei Xie and James Stevenson and Karl Leswing and Mathew D. Halls and Robert Abel and Leif D. Jacobson},
       year={2025},
