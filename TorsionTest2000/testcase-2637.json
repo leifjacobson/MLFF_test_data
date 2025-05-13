@@ -1,0 +1,1706 @@
+[
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                1.015325,
+                1.730588,
+                0.0
+            ],
+            [
+                -0.135409,
+                1.07214,
+                0.0
+            ],
+            [
+                -0.14687,
+                -0.413001,
+                0.0
+            ],
+            [
+                0.822521,
+                -1.127926,
+                0.0
+            ],
+            [
+                -1.408495,
+                -0.898789,
+                0.0
+            ],
+            [
+                -1.096172,
+                1.573535,
+                0.0
+            ],
+            [
+                -1.33431,
+                -1.864106,
+                0.0
+            ],
+            [
+                1.047418,
+                2.814056,
+                0.0
+            ],
+            [
+                1.954648,
+                1.187886,
+                0.0
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.3550492629219,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 0.0
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.278394,
+                0.933582,
+                -0.009457
+            ],
+            [
+                -0.619689,
+                -0.216745,
+                0.000206
+            ],
+            [
+                0.865779,
+                -0.22805,
+                0.016533
+            ],
+            [
+                1.579241,
+                0.741824,
+                -0.000745
+            ],
+            [
+                1.351945,
+                -1.491264,
+                -0.001677
+            ],
+            [
+                -1.121007,
+                -1.177614,
+                0.001323
+            ],
+            [
+                2.294279,
+                -1.434605,
+                0.211041
+            ],
+            [
+                -2.361953,
+                0.964849,
+                -0.017502
+            ],
+            [
+                -0.736052,
+                1.873248,
+                -0.008636
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.35381151721776,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 14.999965583921854
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.27953,
+                0.934437,
+                -0.016449
+            ],
+            [
+                -0.619266,
+                -0.215385,
+                -0.001291
+            ],
+            [
+                0.866386,
+                -0.22697,
+                0.028403
+            ],
+            [
+                1.576183,
+                0.742884,
+                -0.007846
+            ],
+            [
+                1.354311,
+                -1.495436,
+                0.001559
+            ],
+            [
+                -1.119614,
+                -1.17672,
+                -0.000717
+            ],
+            [
+                2.227431,
+                -1.486498,
+                0.416421
+            ],
+            [
+                -2.363036,
+                0.963942,
+                -0.030353
+            ],
+            [
+                -0.739046,
+                1.875033,
+                -0.013865
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.35042154181286,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 29.99989901824997
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.280518,
+                0.936968,
+                -0.022157
+            ],
+            [
+                -0.620786,
+                -0.213102,
+                0.002272
+            ],
+            [
+                0.865247,
+                -0.226327,
+                0.039341
+            ],
+            [
+                1.570413,
+                0.744613,
+                -0.004712
+            ],
+            [
+                1.35964,
+                -1.499409,
+                0.000813
+            ],
+            [
+                -1.122013,
+                -1.173727,
+                0.005841
+            ],
+            [
+                2.116947,
+                -1.558689,
+                0.596547
+            ],
+            [
+                -2.363938,
+                0.967326,
+                -0.040803
+            ],
+            [
+                -0.739576,
+                1.877323,
+                -0.022519
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.34572171172096,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 44.99991405035153
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.281896,
+                0.9423,
+                -0.019317
+            ],
+            [
+                -0.622109,
+                -0.208515,
+                -0.002295
+            ],
+            [
+                0.864434,
+                -0.225902,
+                0.036664
+            ],
+            [
+                1.568483,
+                0.742513,
+                -0.020814
+            ],
+            [
+                1.365388,
+                -1.50611,
+                0.013027
+            ],
+            [
+                -1.124548,
+                -1.168722,
+                -0.004121
+            ],
+            [
+                1.96063,
+                -1.639812,
+                0.759978
+            ],
+            [
+                -2.365447,
+                0.972047,
+                -0.03702
+            ],
+            [
+                -0.742105,
+                1.883303,
+                -0.014762
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.3408307273384,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 59.999986519241475
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.283361,
+                0.947535,
+                -0.014784
+            ],
+            [
+                -0.625925,
+                -0.204989,
+                -0.004579
+            ],
+            [
+                0.861365,
+                -0.227609,
+                0.029609
+            ],
+            [
+                1.564879,
+                0.73907,
+                -0.027804
+            ],
+            [
+                1.373595,
+                -1.50996,
+                0.019837
+            ],
+            [
+                -1.131487,
+                -1.163501,
+                -0.011821
+            ],
+            [
+                1.767494,
+                -1.72444,
+                0.872802
+            ],
+            [
+                -2.366928,
+                0.980102,
+                -0.030766
+            ],
+            [
+                -0.741169,
+                1.887204,
+                -0.007708
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.33692013636784,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 74.99989508219416
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.284701,
+                0.952424,
+                -0.006585
+            ],
+            [
+                -0.629567,
+                -0.201569,
+                -0.005526
+            ],
+            [
+                0.858675,
+                -0.229408,
+                0.019466
+            ],
+            [
+                1.563086,
+                0.735197,
+                -0.030725
+            ],
+            [
+                1.381439,
+                -1.510643,
+                0.027556
+            ],
+            [
+                -1.139222,
+                -1.158098,
+                -0.020352
+            ],
+            [
+                1.547203,
+                -1.807958,
+                0.928904
+            ],
+            [
+                -2.368198,
+                0.987291,
+                -0.019776
+            ],
+            [
+                -0.740501,
+                1.890815,
+                0.003957
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.33491594184136,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 89.99984869348484
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.284621,
+                0.954677,
+                0.006322
+            ],
+            [
+                -0.632866,
+                -0.200873,
+                -0.011804
+            ],
+            [
+                0.85658,
+                -0.232774,
+                0.004312
+            ],
+            [
+                1.561648,
+                0.731067,
+                -0.043024
+            ],
+            [
+                1.387565,
+                -1.507871,
+                0.043026
+            ],
+            [
+                -1.148307,
+                -1.154383,
+                -0.042194
+            ],
+            [
+                1.317136,
+                -1.879009,
+                0.929543
+            ],
+            [
+                -2.367941,
+                0.993469,
+                -0.004415
+            ],
+            [
+                -0.736853,
+                1.890749,
+                0.029291
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.33517874981965,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 104.99995790264487
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.284116,
+                0.955143,
+                0.018757
+            ],
+            [
+                -0.635405,
+                -0.201329,
+                -0.019918
+            ],
+            [
+                0.85544,
+                -0.236403,
+                -0.008308
+            ],
+            [
+                1.561305,
+                0.726961,
+                -0.057589
+            ],
+            [
+                1.390861,
+                -1.502259,
+                0.060886
+            ],
+            [
+                -1.157326,
+                -1.151273,
+                -0.067351
+            ],
+            [
+                1.103833,
+                -1.946307,
+                0.866797
+            ],
+            [
+                -2.367331,
+                0.997021,
+                0.009382
+            ],
+            [
+                -0.733072,
+                1.888771,
+                0.057008
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.3373493960715,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 119.99983775377727
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.283197,
+                0.954757,
+                0.023089
+            ],
+            [
+                -0.637679,
+                -0.202657,
+                -0.023471
+            ],
+            [
+                0.854468,
+                -0.23967,
+                -0.013631
+            ],
+            [
+                1.560644,
+                0.724363,
+                -0.060396
+            ],
+            [
+                1.393214,
+                -1.495938,
+                0.066048
+            ],
+            [
+                -1.166632,
+                -1.149284,
+                -0.077327
+            ],
+            [
+                0.929356,
+                -2.01808,
+                0.730633
+            ],
+            [
+                -2.366376,
+                0.999399,
+                0.014845
+            ],
+            [
+                -0.728754,
+                1.886185,
+                0.066626
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.34051862559056,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 134.99994339527254
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.281575,
+                0.954548,
+                0.021292
+            ],
+            [
+                -0.639987,
+                -0.204645,
+                -0.021534
+            ],
+            [
+                0.853052,
+                -0.242675,
+                -0.013485
+            ],
+            [
+                1.558374,
+                0.723204,
+                -0.053739
+            ],
+            [
+                1.396325,
+                -1.490221,
+                0.058523
+            ],
+            [
+                -1.176912,
+                -1.14761,
+                -0.072049
+            ],
+            [
+                0.806834,
+                -2.086779,
+                0.533575
+            ],
+            [
+                -2.364394,
+                1.003537,
+                0.01375
+            ],
+            [
+                -0.722228,
+                1.883123,
+                0.061205
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.34362596035913,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 149.99993029668485
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.280208,
+                0.954735,
+                0.01109
+            ],
+            [
+                -0.64202,
+                -0.206379,
+                -0.010682
+            ],
+            [
+                0.851765,
+                -0.244995,
+                -0.00706
+            ],
+            [
+                1.555839,
+                0.723721,
+                -0.028358
+            ],
+            [
+                1.399366,
+                -1.486667,
+                0.031085
+            ],
+            [
+                -1.186367,
+                -1.146618,
+                -0.039187
+            ],
+            [
+                0.73592,
+                -2.140396,
+                0.277749
+            ],
+            [
+                -2.362878,
+                1.007228,
+                0.005975
+            ],
+            [
+                -0.716296,
+                1.8813,
+                0.032103
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.34582021906425,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 164.99988242018614
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                1.046608,
+                1.707828,
+                0.0
+            ],
+            [
+                -0.115592,
+                1.070945,
+                0.0
+            ],
+            [
+                -0.154715,
+                -0.423202,
+                0.0
+            ],
+            [
+                0.815171,
+                -1.126162,
+                0.0
+            ],
+            [
+                -1.394359,
+                -0.972848,
+                0.0
+            ],
+            [
+                -1.054656,
+                1.61827,
+                0.0
+            ],
+            [
+                -2.069682,
+                -0.285673,
+                0.0
+            ],
+            [
+                1.100784,
+                2.790365,
+                0.0
+            ],
+            [
+                1.972417,
+                1.142463,
+                0.0
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.34660389432634,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": 180.0
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.280196,
+                0.954729,
+                -0.011126
+            ],
+            [
+                -0.642022,
+                -0.206392,
+                0.010711
+            ],
+            [
+                0.851763,
+                -0.244998,
+                0.007075
+            ],
+            [
+                1.555818,
+                0.723732,
+                0.028428
+            ],
+            [
+                1.399377,
+                -1.486662,
+                -0.03115
+            ],
+            [
+                -1.186372,
+                -1.146628,
+                0.039276
+            ],
+            [
+                0.735936,
+                -2.140385,
+                -0.277847
+            ],
+            [
+                -2.362863,
+                1.007243,
+                -0.006011
+            ],
+            [
+                -0.716262,
+                1.881279,
+                -0.032201
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.345820227841,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -165.0000657772402
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.281225,
+                0.954139,
+                -0.022051
+            ],
+            [
+                -0.639644,
+                -0.20491,
+                0.023971
+            ],
+            [
+                0.853439,
+                -0.243124,
+                0.015217
+            ],
+            [
+                1.55874,
+                0.723069,
+                0.057448
+            ],
+            [
+                1.396546,
+                -1.490162,
+                -0.060735
+            ],
+            [
+                -1.176904,
+                -1.147574,
+                0.076536
+            ],
+            [
+                0.80633,
+                -2.085067,
+                -0.536872
+            ],
+            [
+                -2.364111,
+                1.003236,
+                -0.014582
+            ],
+            [
+                -0.721701,
+                1.882605,
+                -0.06453
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.3436256579123,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -150.00016037777377
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.282831,
+                0.954454,
+                -0.021832
+            ],
+            [
+                -0.637839,
+                -0.203226,
+                0.022001
+            ],
+            [
+                0.85431,
+                -0.239796,
+                0.013165
+            ],
+            [
+                1.5599,
+                0.724905,
+                0.058185
+            ],
+            [
+                1.393782,
+                -1.495619,
+                -0.063701
+            ],
+            [
+                -1.167199,
+                -1.14962,
+                0.074965
+            ],
+            [
+                0.930518,
+                -2.019368,
+                -0.727311
+            ],
+            [
+                -2.365849,
+                0.999933,
+                -0.013183
+            ],
+            [
+                -0.727651,
+                1.885473,
+                -0.063286
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.340519127157,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -135.00004181395823
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.284143,
+                0.955085,
+                -0.017681
+            ],
+            [
+                -0.635372,
+                -0.201337,
+                0.019488
+            ],
+            [
+                0.855416,
+                -0.236312,
+                0.007817
+            ],
+            [
+                1.561311,
+                0.727086,
+                0.055459
+            ],
+            [
+                1.390872,
+                -1.502285,
+                -0.059103
+            ],
+            [
+                -1.157162,
+                -1.151503,
+                0.065126
+            ],
+            [
+                1.103844,
+                -1.947722,
+                -0.86435
+            ],
+            [
+                -2.367421,
+                0.996721,
+                -0.008859
+            ],
+            [
+                -0.7332,
+                1.888875,
+                -0.054075
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.33734942752125,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -120.00008410715535
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.284616,
+                0.954678,
+                -0.006337
+            ],
+            [
+                -0.632863,
+                -0.200869,
+                0.011813
+            ],
+            [
+                0.85658,
+                -0.232775,
+                -0.004302
+            ],
+            [
+                1.561644,
+                0.731067,
+                0.043053
+            ],
+            [
+                1.387564,
+                -1.507876,
+                -0.043052
+            ],
+            [
+                -1.148304,
+                -1.154379,
+                0.042229
+            ],
+            [
+                1.317126,
+                -1.878993,
+                -0.929577
+            ],
+            [
+                -2.367936,
+                0.993466,
+                0.004393
+            ],
+            [
+                -0.736857,
+                1.890755,
+                -0.029326
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.335178648875,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -105.00010342975813
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.281668,
+                0.950496,
+                0.007619
+            ],
+            [
+                -0.62966,
+                -0.202159,
+                0.003955
+            ],
+            [
+                0.857032,
+                -0.22993,
+                -0.019827
+            ],
+            [
+                1.559752,
+                0.734941,
+                0.02696
+            ],
+            [
+                1.383276,
+                -1.508258,
+                -0.023405
+            ],
+            [
+                -1.140642,
+                -1.15766,
+                0.018221
+            ],
+            [
+                1.548108,
+                -1.803444,
+                -0.926206
+            ],
+            [
+                -2.364918,
+                0.988309,
+                0.021779
+            ],
+            [
+                -0.734928,
+                1.887253,
+                -0.001921
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.33489492727085,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -90.0001125204028
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.280707,
+                0.946089,
+                0.018018
+            ],
+            [
+                -0.626178,
+                -0.204995,
+                -3.3e-05
+            ],
+            [
+                0.859728,
+                -0.227821,
+                -0.032984
+            ],
+            [
+                1.561585,
+                0.739127,
+                0.017414
+            ],
+            [
+                1.375731,
+                -1.507147,
+                -0.011747
+            ],
+            [
+                -1.13294,
+                -1.16252,
+                0.003432
+            ],
+            [
+                1.770738,
+                -1.723682,
+                -0.86424
+            ],
+            [
+                -2.364002,
+                0.981174,
+                0.03575
+            ],
+            [
+                -0.736377,
+                1.8843,
+                0.015388
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.33690049406215,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -74.99993202022664
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.279403,
+                0.940232,
+                0.024474
+            ],
+            [
+                -0.622951,
+                -0.209354,
+                -0.002059
+            ],
+            [
+                0.862401,
+                -0.226533,
+                -0.040451
+            ],
+            [
+                1.564705,
+                0.742478,
+                0.007887
+            ],
+            [
+                1.36766,
+                -1.502727,
+                -0.002074
+            ],
+            [
+                -1.126503,
+                -1.168521,
+                -0.005599
+            ],
+            [
+                1.96462,
+                -1.640069,
+                -0.74752
+            ],
+            [
+                -2.362673,
+                0.973428,
+                0.04433
+            ],
+            [
+                -0.736394,
+                1.879182,
+                0.025908
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.34081264395445,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -60.000146724220265
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.277919,
+                0.935699,
+                0.023585
+            ],
+            [
+                -0.620803,
+                -0.213098,
+                -0.001833
+            ],
+            [
+                0.864009,
+                -0.226525,
+                -0.039202
+            ],
+            [
+                1.568818,
+                0.743449,
+                0.003575
+            ],
+            [
+                1.360802,
+                -1.497515,
+                0.001709
+            ],
+            [
+                -1.122818,
+                -1.173089,
+                -0.006094
+            ],
+            [
+                2.118815,
+                -1.555275,
+                -0.594215
+            ],
+            [
+                -2.361181,
+                0.968104,
+                0.042549
+            ],
+            [
+                -0.735244,
+                1.87482,
+                0.024082
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.3457036090928,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -45.00003172651174
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.279658,
+                0.934627,
+                0.016376
+            ],
+            [
+                -0.619429,
+                -0.215143,
+                -0.000118
+            ],
+            [
+                0.866227,
+                -0.226822,
+                -0.029725
+            ],
+            [
+                1.575874,
+                0.743121,
+                0.004949
+            ],
+            [
+                1.354368,
+                -1.495111,
+                -0.000724
+            ],
+            [
+                -1.119851,
+                -1.176428,
+                -0.00136
+            ],
+            [
+                2.227517,
+                -1.486718,
+                -0.415545
+            ],
+            [
+                -2.363169,
+                0.964045,
+                0.030309
+            ],
+            [
+                -0.739219,
+                1.875243,
+                0.014921
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.35042156406604,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -30.000151705530463
+    },
+    {
+        "title": "CC[P@](=O)(O)/C(C)=C/C(=O)O-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=CC(=O)O",
+        "coordinates": [
+            [
+                -1.27843,
+                0.933607,
+                0.009454
+            ],
+            [
+                -0.619657,
+                -0.216689,
+                -0.000212
+            ],
+            [
+                0.865817,
+                -0.228048,
+                -0.016536
+            ],
+            [
+                1.57934,
+                0.74178,
+                0.000756
+            ],
+            [
+                1.351924,
+                -1.491287,
+                0.001671
+            ],
+            [
+                -1.120962,
+                -1.177561,
+                -0.001325
+            ],
+            [
+                2.294263,
+                -1.434671,
+                -0.211039
+            ],
+            [
+                -2.361986,
+                0.964782,
+                0.017511
+            ],
+            [
+                -0.736199,
+                1.873342,
+                0.008628
+            ]
+        ],
+        "elements": [
+            "C",
+            "C",
+            "C",
+            "O",
+            "O",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -267.35381155711775,
+        "torsion_atoms": [
+            4,
+            3,
+            5,
+            7
+        ],
+        "torsion_angle": -15.000087425574185
+    }
+]

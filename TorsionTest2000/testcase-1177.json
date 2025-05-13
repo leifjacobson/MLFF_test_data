@@ -1,0 +1,1418 @@
+[
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.912428,
+                0.589709,
+                -0.089425
+            ],
+            [
+                -0.389767,
+                -0.553025,
+                -0.253353
+            ],
+            [
+                0.973122,
+                -0.652935,
+                -0.157602
+            ],
+            [
+                1.41106,
+                0.047487,
+                0.433968
+            ],
+            [
+                1.237454,
+                -1.590492,
+                0.102664
+            ],
+            [
+                -0.327885,
+                1.48199,
+                0.159514
+            ],
+            [
+                -1.985722,
+                0.68219,
+                -0.211422
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.07552814153564,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 27.04438513990363
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.912124,
+                0.584572,
+                -0.072979
+            ],
+            [
+                -0.394479,
+                -0.555269,
+                -0.2641
+            ],
+            [
+                0.980288,
+                -0.645769,
+                -0.170666
+            ],
+            [
+                1.365361,
+                -0.119286,
+                0.608622
+            ],
+            [
+                1.234644,
+                -1.619092,
+                -0.080499
+            ],
+            [
+                -0.3248,
+                1.468907,
+                0.194701
+            ],
+            [
+                -1.987133,
+                0.679629,
+                -0.180233
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0748751840097,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 42.04450357513747
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.913173,
+                0.576647,
+                -0.05945
+            ],
+            [
+                -0.40071,
+                -0.560146,
+                -0.275606
+            ],
+            [
+                0.989781,
+                -0.631599,
+                -0.178493
+            ],
+            [
+                1.314276,
+                -0.324396,
+                0.734268
+            ],
+            [
+                1.247695,
+                -1.60469,
+                -0.279078
+            ],
+            [
+                -0.320096,
+                1.4538,
+                0.216602
+            ],
+            [
+                -1.990234,
+                0.673518,
+                -0.148853
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0731978854622,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 57.04459414461759
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.9148,
+                0.566348,
+                -0.04973
+            ],
+            [
+                -0.407827,
+                -0.567402,
+                -0.286517
+            ],
+            [
+                0.999915,
+                -0.61189,
+                -0.180841
+            ],
+            [
+                1.263993,
+                -0.552502,
+                0.799166
+            ],
+            [
+                1.274301,
+                -1.540151,
+                -0.480879
+            ],
+            [
+                -0.31333,
+                1.436928,
+                0.226277
+            ],
+            [
+                -1.993688,
+                0.66513,
+                -0.121667
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0711670198254,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 72.04451709471775
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.918442,
+                0.55626,
+                -0.04586
+            ],
+            [
+                -0.41347,
+                -0.574897,
+                -0.295197
+            ],
+            [
+                1.00974,
+                -0.591706,
+                -0.176978
+            ],
+            [
+                1.226593,
+                -0.789259,
+                0.797404
+            ],
+            [
+                1.307189,
+                -1.425713,
+                -0.67336
+            ],
+            [
+                -0.310477,
+                1.423029,
+                0.225953
+            ],
+            [
+                -1.998966,
+                0.65486,
+                -0.104647
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.06931186576907,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 87.04453547199385
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.922642,
+                0.548196,
+                -0.048397
+            ],
+            [
+                -0.417042,
+                -0.581196,
+                -0.299701
+            ],
+            [
+                1.017213,
+                -0.575078,
+                -0.16827
+            ],
+            [
+                1.210251,
+                -1.01522,
+                0.729606
+            ],
+            [
+                1.338746,
+                -1.264227,
+                -0.84306
+            ],
+            [
+                -0.312098,
+                1.412526,
+                0.223575
+            ],
+            [
+                -2.003846,
+                0.646349,
+                -0.107717
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.067911414207,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 102.04444604110847
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.925396,
+                0.543009,
+                -0.056184
+            ],
+            [
+                -0.418575,
+                -0.585541,
+                -0.300469
+            ],
+            [
+                1.02089,
+                -0.564361,
+                -0.1561
+            ],
+            [
+                1.211946,
+                -1.214221,
+                0.604468
+            ],
+            [
+                1.363088,
+                -1.059732,
+                -0.976664
+            ],
+            [
+                -0.31601,
+                1.405508,
+                0.222229
+            ],
+            [
+                -2.005856,
+                0.641852,
+                -0.129753
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0671108048276,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 117.04458031510667
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.927597,
+                0.544576,
+                -0.067251
+            ],
+            [
+                -0.417603,
+                -0.586406,
+                -0.298659
+            ],
+            [
+                1.020943,
+                -0.565365,
+                -0.142248
+            ],
+            [
+                1.227941,
+                -1.379093,
+                0.432559
+            ],
+            [
+                1.385362,
+                -0.816352,
+                -1.059099
+            ],
+            [
+                -0.321379,
+                1.407323,
+                0.217966
+            ],
+            [
+                -2.00665,
+                0.64496,
+                -0.160417
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.06705169615392,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 132.04446696047498
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.924832,
+                0.55047,
+                -0.078721
+            ],
+            [
+                -0.415315,
+                -0.584235,
+                -0.294309
+            ],
+            [
+                1.014594,
+                -0.575808,
+                -0.13106
+            ],
+            [
+                1.247371,
+                -1.497935,
+                0.224884
+            ],
+            [
+                1.4061,
+                -0.542918,
+                -1.069114
+            ],
+            [
+                -0.321042,
+                1.415294,
+                0.206275
+            ],
+            [
+                -2.001817,
+                0.653394,
+                -0.186845
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.06784002762868,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 147.04452050513675
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.91943,
+                0.562904,
+                -0.086646
+            ],
+            [
+                -0.409188,
+                -0.576297,
+                -0.284032
+            ],
+            [
+                1.001467,
+                -0.600117,
+                -0.131397
+            ],
+            [
+                1.265146,
+                -1.569817,
+                -0.010517
+            ],
+            [
+                1.436037,
+                -0.255224,
+                -0.980709
+            ],
+            [
+                -0.319263,
+                1.438363,
+                0.175059
+            ],
+            [
+                -1.996328,
+                0.661746,
+                -0.18997
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.06959075706428,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 162.04450396786592
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.912872,
+                0.581941,
+                -0.084632
+            ],
+            [
+                -0.395711,
+                -0.561547,
+                -0.258064
+            ],
+            [
+                0.978277,
+                -0.638595,
+                -0.163412
+            ],
+            [
+                1.286114,
+                -1.591379,
+                -0.268076
+            ],
+            [
+                1.489064,
+                0.023421,
+                -0.732213
+            ],
+            [
+                -0.318584,
+                1.481788,
+                0.100087
+            ],
+            [
+                -1.993442,
+                0.662189,
+                -0.135139
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.07243598988023,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 177.04448402971875
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.917977,
+                0.58255,
+                -0.086761
+            ],
+            [
+                -0.386906,
+                -0.555313,
+                -0.260175
+            ],
+            [
+                0.97478,
+                -0.64329,
+                -0.16128
+            ],
+            [
+                1.305598,
+                -1.530254,
+                -0.503869
+            ],
+            [
+                1.496375,
+                0.151607,
+                -0.511692
+            ],
+            [
+                -0.334552,
+                1.490434,
+                0.097241
+            ],
+            [
+                -1.999222,
+                0.650138,
+                -0.126863
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0748764237506,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -167.9555168812025
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.921647,
+                0.581459,
+                -0.093843
+            ],
+            [
+                -0.384439,
+                -0.551689,
+                -0.273832
+            ],
+            [
+                0.976928,
+                -0.644304,
+                -0.139777
+            ],
+            [
+                1.33018,
+                -1.402335,
+                -0.703864
+            ],
+            [
+                1.478236,
+                0.222134,
+                -0.317305
+            ],
+            [
+                -0.344334,
+                1.486638,
+                0.123489
+            ],
+            [
+                -2.002294,
+                0.648772,
+                -0.15031
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0755041654418,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -152.95552353902048
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.921137,
+                0.583703,
+                -0.10081
+            ],
+            [
+                -0.386143,
+                -0.548809,
+                -0.285635
+            ],
+            [
+                0.978838,
+                -0.65008,
+                -0.119799
+            ],
+            [
+                1.359159,
+                -1.223237,
+                -0.860762
+            ],
+            [
+                1.447307,
+                0.255726,
+                -0.11553
+            ],
+            [
+                -0.344036,
+                1.480841,
+                0.150922
+            ],
+            [
+                -2.000479,
+                0.659207,
+                -0.176084
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0743030869658,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -137.9554571999058
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.917759,
+                0.588463,
+                -0.105313
+            ],
+            [
+                -0.391413,
+                -0.546152,
+                -0.294181
+            ],
+            [
+                0.981353,
+                -0.659908,
+                -0.105529
+            ],
+            [
+                1.387351,
+                -1.007842,
+                -0.966439
+            ],
+            [
+                1.4088,
+                0.248615,
+                0.087495
+            ],
+            [
+                -0.337203,
+                1.474813,
+                0.177042
+            ],
+            [
+                -1.995342,
+                0.677059,
+                -0.198303
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.07150669219124,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -122.95555680917313
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.912833,
+                0.594107,
+                -0.105636
+            ],
+            [
+                -0.39958,
+                -0.544513,
+                -0.299066
+            ],
+            [
+                0.985296,
+                -0.67105,
+                -0.099322
+            ],
+            [
+                1.40967,
+                -0.770546,
+                -1.016658
+            ],
+            [
+                1.366206,
+                0.19845,
+                0.284864
+            ],
+            [
+                -0.32612,
+                1.46899,
+                0.200349
+            ],
+            [
+                -1.988299,
+                0.699057,
+                -0.214739
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.06756232002266,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -107.95553366049309
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.908219,
+                0.599338,
+                -0.101155
+            ],
+            [
+                -0.409786,
+                -0.543143,
+                -0.300833
+            ],
+            [
+                0.991457,
+                -0.681849,
+                -0.102103
+            ],
+            [
+                1.426566,
+                -0.52742,
+                -1.008793
+            ],
+            [
+                1.324521,
+                0.097813,
+                0.472728
+            ],
+            [
+                -0.314388,
+                1.464594,
+                0.21804
+            ],
+            [
+                -1.981767,
+                0.71998,
+                -0.219918
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.06315661337848,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -92.95550789317691
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.904472,
+                0.601807,
+                -0.092029
+            ],
+            [
+                -0.420033,
+                -0.544264,
+                -0.299892
+            ],
+            [
+                0.99831,
+                -0.686685,
+                -0.11355
+            ],
+            [
+                1.438186,
+                -0.291256,
+                -0.942569
+            ],
+            [
+                1.284622,
+                -0.060672,
+                0.642853
+            ],
+            [
+                -0.301077,
+                1.461082,
+                0.225232
+            ],
+            [
+                -1.977158,
+                0.735162,
+                -0.211441
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.05923907790927,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -77.95543453646484
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.90407,
+                0.600345,
+                -0.081331
+            ],
+            [
+                -0.426444,
+                -0.547223,
+                -0.295756
+            ],
+            [
+                1.004178,
+                -0.682892,
+                -0.130443
+            ],
+            [
+                1.447612,
+                -0.079799,
+                -0.820912
+            ],
+            [
+                1.253062,
+                -0.288642,
+                0.776357
+            ],
+            [
+                -0.292765,
+                1.460636,
+                0.217113
+            ],
+            [
+                -1.977692,
+                0.737181,
+                -0.192162
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0569690891309,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -62.95549128276926
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.907957,
+                0.595263,
+                -0.07586
+            ],
+            [
+                -0.42435,
+                -0.551203,
+                -0.285576
+            ],
+            [
+                1.0052,
+                -0.670335,
+                -0.146172
+            ],
+            [
+                1.45482,
+                0.087536,
+                -0.655229
+            ],
+            [
+                1.238131,
+                -0.581977,
+                0.838476
+            ],
+            [
+                -0.296857,
+                1.464778,
+                0.193657
+            ],
+            [
+                -1.98305,
+                0.724274,
+                -0.181145
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.05737910241652,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -47.95551079034555
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.915593,
+                0.588861,
+                -0.0845
+            ],
+            [
+                -0.411973,
+                -0.554881,
+                -0.266833
+            ],
+            [
+                0.997782,
+                -0.652238,
+                -0.150685
+            ],
+            [
+                1.466062,
+                0.194836,
+                -0.459308
+            ],
+            [
+                1.253002,
+                -0.925442,
+                0.788444
+            ],
+            [
+                -0.315023,
+                1.475498,
+                0.147613
+            ],
+            [
+                -1.990811,
+                0.699345,
+                -0.199323
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.06091156342913,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -32.95547000463674
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.920026,
+                0.563636,
+                -0.370264
+            ],
+            [
+                -0.383044,
+                -0.558602,
+                -0.127409
+            ],
+            [
+                0.964766,
+                -0.594885,
+                0.083931
+            ],
+            [
+                1.484243,
+                0.215101,
+                -0.240724
+            ],
+            [
+                1.359406,
+                -1.476387,
+                -0.201459
+            ],
+            [
+                -0.345853,
+                1.493182,
+                -0.449492
+            ],
+            [
+                -1.997017,
+                0.599708,
+                -0.487819
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.07518252593985,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -17.95544499891761
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.91131,
+                0.584835,
+                -0.250293
+            ],
+            [
+                -0.397711,
+                -0.559198,
+                -0.054097
+            ],
+            [
+                0.939073,
+                -0.640204,
+                0.145203
+            ],
+            [
+                1.488146,
+                0.208481,
+                0.08564
+            ],
+            [
+                1.355192,
+                -1.495937,
+                -0.173751
+            ],
+            [
+                -0.317475,
+                1.504612,
+                -0.282764
+            ],
+            [
+                -1.98707,
+                0.647942,
+                -0.365797
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.07323712349375,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": -2.9555043294314975
+    },
+    {
+        "title": "C[N+](C)(C)c1ccc2c(c1)CCC/C2=N/N-SmilesReader-MaestroReader-Fast3DConformerSampling-Fast3DConformerSampling-MaestroReader-MLFFOptimization-MLFFOptimization",
+        "smiles": "C=NN",
+        "coordinates": [
+            [
+                -0.914938,
+                0.592163,
+                -0.112253
+            ],
+            [
+                -0.386008,
+                -0.552996,
+                -0.241255
+            ],
+            [
+                0.968314,
+                -0.652369,
+                -0.137696
+            ],
+            [
+                1.45506,
+                0.162199,
+                0.222304
+            ],
+            [
+                1.258678,
+                -1.533773,
+                0.251058
+            ],
+            [
+                -0.333146,
+                1.49434,
+                0.106038
+            ],
+            [
+                -1.987197,
+                0.67749,
+                -0.245659
+            ]
+        ],
+        "elements": [
+            "C",
+            "N",
+            "N",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "charge": 0,
+        "E[wB97X-D3BJ/def2-TZVPD](Ha)": -150.0746131666234,
+        "torsion_atoms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "torsion_angle": 12.044445166697109
+    }
+]
