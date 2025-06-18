@@ -78,6 +78,10 @@ article{zhou2025CSP,
 
 This dataset is a collection of tight PBE-D3 optimizations of 20 sets of experimentally observed organic crystals.  The 20 systems were selected as challenging molecular systems from a prior study.  Each set gives known Z'=1 crystal forms and reference PBE-D3 energies are given in Rydberg.  Additionally, the number of molecules is given by the key `number_of_molecules` and it is customary to measure energy normalized to the number of molecules.  When using this data please also cite the original work (given in the previous section).
 
+### LiquidDensity_equilibrated_structures
+
+this dataset gives equilibrated geometries of 62 examples of organic liquids.  The systems were constructed to be about 1000 atom systems and average densities computed from MD simulations in the NPT ensemble should give some indication of the accuracy of a model to reproduce liquid densities.  Each structure contains a property `experimental_density(g/cc)` and `experimental_temperature(K)`, which give the mass density and temperature for which it was measured.  These data were collected from the CRC handbook.
+
 ## Reference
 
 If using any of this data please cite our manuscript describing the data as well as MPNICE MLFF models.
