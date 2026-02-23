@@ -1,4 +1,4 @@
-# MLFF_validation_data
+# MLFF_test_data
 Location to share public data generated at Schrodinger, for validation of MLFF models.
 
 ## General Data Format and Units
@@ -82,6 +82,19 @@ This dataset is a collection of tight PBE-D3 optimizations of 20 sets of experim
 
 this dataset gives equilibrated geometries of 62 examples of organic liquids.  The systems were constructed to be about 1000 atom systems and average densities computed from MD simulations in the NPT ensemble should give some indication of the accuracy of a model to reproduce liquid densities.  Each structure contains a property `experimental_density(g/cc)` and `experimental_temperature(K)`, which give the mass density and temperature for which it was measured.  These data were collected from the CRC handbook.
 
+### ECLiPF6
+
+These datasets are described in the manuscript titled `An Accurate Charge-Aware Machine-Learning Interatomic Potential for the Reduction of Li-ion Battery Electrolytes in Solution`. Each contain 159 clusters of varying compositions of Li<sub>x</sub>EC<sub>y</sub>(PF<sub>6</sub>)<sub>z</sub>, geometries, and charge states (aside from dataset vi, which contains 258 separately sampled clusters). For a complete description see Figure 3 of the manuscript. Total energies, forces, and dipoles are provided at the wB97X-D3BJ/def2-TZVPD level of theory. If these data are used please cite the following manuscript:
+
+```
+@article{wei2025accurate,
+  title={An Accurate Charge-Aware Machine-Learning Interatomic Potential for the Reduction of Li-ion Battery Electrolytes in Solution},
+  author={Wei, Yujing and L. Weber, John and M. Stevenson, James and K. Goldsmith, Zachary and Xie, Xiaowei and D. Jacobson, Leif and A. Friesner, Richard},
+  year={2025},
+  publisher={ChemRxiv}
+}
+```
+
 ## Reference
 
 If using any of this data please cite our manuscript describing the data as well as MPNICE MLFF models.
@@ -97,3 +110,4 @@ If using any of this data please cite our manuscript describing the data as well
       url={https://arxiv.org/abs/2505.06462}, 
 }
 ```
+
